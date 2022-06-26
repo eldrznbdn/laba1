@@ -19,7 +19,7 @@ record laptop(int speedProcessor,int amountOfRam,
     }
 
     @Override
-    public String toString() {
+    public String toString(){
         return "laptop[" +
                 "speedProcessor = " + speedProcessor +
                 ", amountOfRam = " + amountOfRam +
