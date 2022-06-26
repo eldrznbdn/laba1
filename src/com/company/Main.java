@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         laptop firstLaptop = new laptop();
         laptop secLaptop = new laptop(23,32,"qatar");
-        laptop thirdLaptop = new laptop(34242,242,"cercenitida",32324,2010);
+        laptop thirdLaptop = new laptop(302303,242,"cercenitida",32324,2010);
 
         System.out.println(firstLaptop);
         System.out.println("----------");
